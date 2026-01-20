@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 # nmapAutomator v2.0.0
-# Author: @21y4d
+# Author: @H4N1K
 # Hardened & Safe Edition
 
 set -o errexit
